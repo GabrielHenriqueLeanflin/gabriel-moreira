@@ -1,5 +1,9 @@
-<p>👨‍💻 Fulltack Developer, 1+ years of experience.</p>
+<h1>Hi There! 👋</h1>
 
-<hr>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielleanflinhenriquemoreira/)](https://www.linkedin.com/in/gabrielleanflinhenriquemoreira/)
 
-[![My Skills](https://skillicons.dev/icons?i=java,go,python,kotlin,spring,kafka,aws,redis,postgresql,mysql,docker,mongodb,terraform)](https://skillicons.dev)
+## My name is Gabriel Moreira
+Typescript | Javascript | Angular | PHP | Laravel | Java | Spring Boot | AWS | Docker
+
+- 👩‍💻 Fullstack Developer
+- 💡 Love a good challenge
